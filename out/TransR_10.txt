@@ -1,0 +1,46 @@
+using: cuda
+# ent = 14541, # rel type = 237
+d: 100, lr: 0.00020, init? 1
+init done
+Epoch: 025, Loss = 9.56
+Epoch: 050, Loss = 6.22
+Epoch: 075, Loss = 4.91
+Epoch: 100, Loss = 4.14
+Epoch: 125, Loss = 3.58
+Epoch: 150, Loss = 3.24
+Epoch: 175, Loss = 2.90
+Epoch: 200, Loss = 2.63
+Epoch: 225, Loss = 2.45
+Epoch: 250, Loss = 2.27
+Epoch: 275, Loss = 2.15
+Epoch: 300, Loss = 2.02
+Epoch: 325, Loss = 1.92
+Epoch: 350, Loss = 1.79
+Epoch: 375, Loss = 1.72
+Epoch: 400, Loss = 1.65
+Epoch: 425, Loss = 1.58
+Epoch: 450, Loss = 1.51
+Epoch: 475, Loss = 1.42
+Epoch: 500, Loss = 1.40
+Epoch: 525, Loss = 1.34
+Epoch: 550, Loss = 1.34
+Epoch: 575, Loss = 1.24
+Epoch: 600, Loss = 1.22
+Epoch: 625, Loss = 1.22
+Epoch: 650, Loss = 1.17
+Epoch: 675, Loss = 1.13
+Epoch: 700, Loss = 1.12
+Epoch: 725, Loss = 1.08
+Epoch: 750, Loss = 1.06
+Epoch: 775, Loss = 1.03
+Epoch: 800, Loss = 1.02
+Epoch: 825, Loss = 1.00
+Epoch: 850, Loss = 0.98
+Epoch: 875, Loss = 0.94
+Epoch: 900, Loss = 0.93
+Epoch: 925, Loss = 0.92
+Epoch: 950, Loss = 0.88
+Epoch: 975, Loss = 0.88
+Epoch: 1000, Loss = 0.86
+MR 137 MRR 0.4002 H@1 0.2996 H@3 0.4456 H@10 0.5962
+MR 134 MRR 0.3956 H@1 0.2941 H@3 0.4385 H@10 0.5968

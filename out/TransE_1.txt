@@ -1,0 +1,21 @@
+using: cuda
+# ent = 106389, # rel type = 9
+d: 100, lr: 0.00020, epoch: 0800, init: 1
+Entity initialized
+Epoch: 100, Loss = 16.50
+MR 386 MRR 0.6689 H@1 0.6024 H@3 0.7084 H@10 0.7893
+Epoch: 200, Loss = 13.54
+MR 315 MRR 0.6812 H@1 0.6115 H@3 0.7205 H@10 0.8152
+Epoch: 300, Loss = 13.08
+MR 317 MRR 0.6906 H@1 0.6188 H@3 0.7324 H@10 0.8260
+Epoch: 400, Loss = 13.05
+MR 325 MRR 0.6973 H@1 0.6290 H@3 0.7351 H@10 0.8305
+Epoch: 500, Loss = 13.02
+MR 325 MRR 0.7005 H@1 0.6338 H@3 0.7353 H@10 0.8337
+Epoch: 600, Loss = 12.89
+MR 319 MRR 0.6980 H@1 0.6265 H@3 0.7388 H@10 0.8344
+Epoch: 700, Loss = 13.13
+MR 303 MRR 0.7031 H@1 0.6362 H@3 0.7391 H@10 0.8355
+Epoch: 800, Loss = 12.93
+MR 307 MRR 0.7006 H@1 0.6303 H@3 0.7399 H@10 0.8369
+Embeddings stored

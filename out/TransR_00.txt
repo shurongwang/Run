@@ -1,0 +1,28 @@
+using: cuda
+# ent = 14541, # rel type = 237
+d: 100, lr: 0.00020, epoch: 0550, init: 0
+Epoch: 025, Loss = 28.76
+Epoch: 050, Loss = 16.32
+Epoch: 075, Loss = 12.96
+Epoch: 100, Loss = 11.07
+Epoch: 125, Loss = 9.83
+Epoch: 150, Loss = 8.92
+Epoch: 175, Loss = 8.30
+Epoch: 200, Loss = 7.72
+Epoch: 225, Loss = 7.33
+Epoch: 250, Loss = 6.88
+Epoch: 275, Loss = 6.58
+Epoch: 300, Loss = 6.46
+Epoch: 325, Loss = 6.10
+Epoch: 350, Loss = 5.83
+Epoch: 375, Loss = 5.73
+Epoch: 400, Loss = 5.61
+Epoch: 425, Loss = 5.40
+Epoch: 450, Loss = 5.35
+Epoch: 475, Loss = 5.23
+Epoch: 500, Loss = 5.06
+Epoch: 525, Loss = 5.01
+Epoch: 550, Loss = 4.82
+MR 174 MRR 0.2908 H@1 0.1946 H@3 0.3268 H@10 0.4781
+MR 185 MRR 0.2873 H@1 0.1907 H@3 0.3238 H@10 0.4773
+Embeddings stored
